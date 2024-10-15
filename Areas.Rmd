@@ -31,5 +31,12 @@ altura <- 2
 AreaTriangulo <- base*altura/2
 ```
 
+# Área del trapecio
 
+```{r}
+b <- 3
+B <- 4
+H <- 8
+AreaTrapecio <- (b + B)*H/2
+```
 
