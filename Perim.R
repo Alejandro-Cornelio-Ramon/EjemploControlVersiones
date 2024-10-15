@@ -3,5 +3,6 @@ AreaCuadrado <- function(L){
 }
 
 LongitudCircunf <- function(R){
-  return (2*pi*R)
+  return (2*(3.14159)*R)
 }
+
